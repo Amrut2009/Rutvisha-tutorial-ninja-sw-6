@@ -1,0 +1,17 @@
+2023-12-16 16:12:610 WARN  FileSystemFontProvider :607 - New fonts found, font cache will be re-built
+2023-12-16 16:12:625 WARN  FileSystemFontProvider :360 - Building on-disk font cache, this may take a while
+2023-12-16 16:12:681 WARN  FileSystemFontProvider :363 - Finished building on-disk font cache, found 356 fonts
+2023-12-16 16:12:917 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (9b8e05758744800a6ff5e4910096f41b)] -> link text: Log in]
+2023-12-16 16:12:145 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (9b8e05758744800a6ff5e4910096f41b)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-16 16:12:849 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (f3b393e9f7f6a19d5690cf911eac7b4b)] -> link text: Log in]
+2023-12-16 16:12:944 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (494f374b33712e049f72d0193ae8ffd3)] -> link text: Log in]
+2023-12-16 16:12:35 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (494f374b33712e049f72d0193ae8ffd3)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-16 16:12:452 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (aa846d255027c9c087344be9735ecdf4)] -> link text: Log in]
+2023-12-16 16:12:55 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (02ffe488735dcf0eb5518d532c6f2dd0)] -> link text: Log in]
+2023-12-16 16:12:596 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (0bde5ae9f2fb555a65ac022ac60a4926)] -> link text: Log in]
+2023-12-16 16:12:146 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (7f92a512506dd3d65527ebc2d6a348d3)] -> link text: Log in]
+2023-12-17 21:12:177 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (9e656a91b99196794eabfa5a085cc5d7)] -> link text: Log in]
+2023-12-17 21:12:370 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (9e656a91b99196794eabfa5a085cc5d7)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-17 21:12:847 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (e8a08d4d01fa362dc01ca7d963b2f96b)] -> link text: Log in]
+2023-12-17 21:12:970 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (431550aa1b785834bc5bff0b0b9d6d41)] -> link text: Log in]
+2023-12-17 21:12:21 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (c9060f85cbc1097abbb433463fa6b585)] -> link text: Log in]
